@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482346657334",
+    "project_id": "cp-groceries-project",
+    "storage_bucket": "cp-groceries-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482346657334:android:12d58ef1592e8a1df3da97",
+        "android_client_info": {
+          "package_name": "com.example.cp_groceries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpgGTXIkpOeX1KbXL1UshxFgAGV4yzoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482346657334:android:273b54ce20d287c2f3da97",
+        "android_client_info": {
+          "package_name": "com.kazungudev.cp_groceries"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpgGTXIkpOeX1KbXL1UshxFgAGV4yzoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
